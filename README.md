@@ -1,7 +1,3 @@
-# Portfolio-Projects
-Summary of professional automation and QA projects (Flybit, Megazone Cloud, and more).
-
-
 # Portfolio Projects
 
 This repository summarizes key professional projects across my career.  
