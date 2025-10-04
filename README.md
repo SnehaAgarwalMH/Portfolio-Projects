@@ -1,61 +1,58 @@
-# Portfolio Projects
+# 🧩 Flybit QA Portfolio
 
-This repository summarizes key professional projects across my career.  
-👉 Note: All source code remains private due to company confidentiality.  
-👉 This portfolio provides an overview of my work. Full access can be provided on request.
-
----
-
-## 🔹 Flybit (2023/03 – 2023/12)
-
-### 1. Redmine-Driven Website Automation
-- Automated website actions using Redmine data  
-- Built with **Java, Selenium, and TestNG**  
-- Improved efficiency of tracking and testing tasks  
-
-### 2. Website Data Fetcher
-- Automated data fetching using **Java, Selenium, and JavaScript**  
-- Reduced manual work for website data extraction  
-
-### 3. Binance & Bithumb Website Automation
-- Automated login, transaction simulation, and data capture on Binance & Bithumb websites  
-- Built **parallel web automation** scripts for faster execution  
-- Tools: **Java, Selenium, Multithreading**  
-
-### 4. Website Management Scripts
-- Managed website activities like login, screen recording, screenshot capture  
-- Scripts created for both Binance and Bithumb platforms  
+Summary of professional **QA automation and web data processing** projects completed at **Flybit (March 2023 – December 2023)**.  
+All project source code is private due to confidentiality. This README provides an overview for professional review.
 
 ---
 
-## 🔹 Megazone Cloud (2024 – Present)
+## 🔹 Projects Overview
 
-### 1. QA Web Portal Automation
-- Designed & executed **test automation framework** for backend & web systems  
-- Automated regression and smoke tests  
-
-### 2. PoPs Product Testing
-- Worked on **Megazone Cloud PoPs**, a global-scale product deployed in Korea, Japan, Europe  
-- Automated **API testing & regression suites**  
-- Tools: **Java, Playwright, Postman, REST APIs**  
-
-### 3. Contract Module Regression Automation
-- Converted **Excel test cases** into reusable automated scripts inside **Eclipse**  
-- Ensured seamless test execution without changing existing framework structure  
+### 1️⃣ Redmine-Driven Website Automation
+- Automated website workflows using live data from **Redmine**.
+- Built using **Java**, **Selenium**, and **TestNG**.
+- Streamlined QA operations by integrating Redmine test case tracking directly into web actions.
+- Improved overall test visibility and reduced manual coordination time.
 
 ---
 
-## 🔹 Key Skills & Tools
-- **Languages**: Java, JavaScript, SQL  
-- **Testing Tools**: Selenium, Playwright, Postman  
-- **CI/CD**: Jenkins, Bamboo, GitHub Actions  
-- **Cloud**: AWS, GCP  
-- **Databases**: Oracle, MySQL, PostgreSQL  
+### 2️⃣ Website Data Fetcher
+- Automated **data extraction from external websites** using **Java, Selenium, and JavaScript**.
+- Results saved in Excel/CSV formats for analysis.
+- Reduced manual effort in repetitive QA verification.
 
 ---
 
-📍 **Location:** Seoul, South Korea  
-📧 **Email:** sneha.agarwalmh@gmail.com  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/sneha-agarwal-ba02241a9)  
+### 3️⃣ Binance & Bithumb Automation
+- Automated login, transaction simulation, and UI data capture for **Binance** and **Bithumb** platforms.
+- Parallelized execution using **multi-threaded Selenium scripts**.
+- Used for internal QA validation of financial transaction behavior and performance.
 
+---
 
+### 4️⃣ Website Management Scripts
+- Custom automation utilities for web login, screenshot capture, and video recording of test sessions.
+- Enhanced debugging for dynamic website behaviors and regression tracking.
+
+---
+
+## 🧰 Tech Stack
+- **Languages:** Java, JavaScript  
+- **Automation Tools:** Selenium, TestNG  
+- **Data Handling:** Apache POI (Excel), JSON  
+- **Project Management:** Redmine  
+- **Version Control:** Git, GitHub  
+
+---
+
+## 🧠 Highlights
+✅ 4 major automation systems successfully deployed  
+✅ Significant reduction in manual validation time  
+✅ Integration between QA tools and real web environments  
+
+---
+
+## 👩‍💻 Author
+Developed by **Sneha Agarwal**  
+QA Automation Engineer at Flybit  
+📧 sneha.agarwalmh@gmail.com  
+📍 Seoul, South Korea
